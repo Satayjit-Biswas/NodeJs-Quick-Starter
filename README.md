@@ -1,5 +1,5 @@
-# University Management Core Service
-This guide will walk you through the process of setting up the University Management Core Service Starter project. By following these steps, you will clone the project, install dependencies, and configure Prisma for database management. Let's get started!
+# NodeJs-Quick-Starter (Demo to university-management)
+This guide will walk you through the process of setting up the Starter project. By following these steps, you will clone the project, install dependencies, and configure Prisma for database management. Let's get started!
 
 
 ## Installation Steps
@@ -8,13 +8,13 @@ This guide will walk you through the process of setting up the University Manage
 1. `Clone the project:` Open your terminal or command prompt and run the following command to clone the project repository:
 
 ```bash
-git clone https://github.com/Programming-Hero-Next-Level-Development/university-management-core-service-starter.git university-management-core-service
+git clone https://github.com/Satayjit-Biswas/NodeJs-Quick-Starter.git
 ```
 
 2. `Navigate into the project directory:` Use the cd command to navigate into the project directory:
 
 ```bash
-cd university-management-core-service
+cd NodeJs-Quick-Starter
 ```
 
 3. `Install project dependencies:` Next, install the project dependencies by running the following command:
